@@ -1,7 +1,7 @@
 ### Hi there, I'm Antonio! 👋
 
-- 👾 I’m currently working as Frontend Web Developer @ Fina
-- 🌱 I’m currently learning Advanced JavaScript
+- 👾 I’m currently working as Software Developer @ Infigo IS
+- 🌱 I’m currently learning Python & Splunk
 - 🚀 In free time i work on my own <a href="https://antonio-sertic-portfolio.netlify.app">Portfolio website</a>
 - 📫 How to reach me: sertic43@gmail.com
 
